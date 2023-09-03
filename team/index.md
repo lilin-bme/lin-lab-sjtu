@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-
+We are a team with different background of biomedical engineering, material science, chemistry, biology and electrical engineering.
 
 {% include section.html %}
 
