@@ -10,6 +10,7 @@ nav:
 We are a team with different background of biomedical engineering, material science, chemistry, biology and electrical engineering1.
 
 {% include section.html %}
+
 We are a team with different background of biomedical engineering, material science, chemistry, biology and electrical engineering2.
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
