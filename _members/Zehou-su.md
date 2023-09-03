@@ -2,7 +2,6 @@
 name: Zehou Su
 image: images/photo.jpg
 description: PhD Student
-role: programmer
 links:
   email: sarah.johnson@gmail.com
  
