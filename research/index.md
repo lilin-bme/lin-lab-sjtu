@@ -11,9 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Direct and quantitative assessments of near-infrared light attenuation and\
-    \ spectroscopic detection depth in biological\_tissues using surface-enhanced\
-    \ Raman scattering" style="rich" %}
+{% include citation.html lookup="Direct and quantitative assessments of near-infrared light attenuation and spectroscopic detection depth in biological tissues using surface-enhanced Raman scattering" style="rich" %}
 
 {% include section.html %}
 
