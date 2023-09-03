@@ -18,10 +18,20 @@ We also cooperate deeply with YE RESEARCH LAB at Shanghai Jiao Tong University. 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
 
 {% include section.html %}
 
-Undergraduates
+## Undergraduates
 
 Zongyu Wu, Shanghai Jiao Tong University, 2021-now
 
@@ -31,7 +41,7 @@ Han Gu, Shanghai Jiao Tong University, 2023-now
 
 {% include section.html %}
 
-Alumni
+## Alumni
 
 Hao-qi He, Shanghai Jiao Tong University, Master Student, 2020-2023
 
