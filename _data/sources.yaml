@@ -4,11 +4,11 @@
   date: 2023-09
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44258-023-00010-2/MediaObjects/44258_2023_10_Figa_HTML.png?as=webp
   buttons:
-   % - type: manubot
-   %   link: https://greenelab.github.io/meta-review/
-   % - type: source
-   %   text: Manuscript Source
-  %    link: https://github.com/greenelab/meta-review
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
     - type: website
       link: https://link.springer.com/article/10.1007/s44258-023-00010-2
   tags:
