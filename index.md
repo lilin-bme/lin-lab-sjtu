@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 Last updated Sept 3, 2023
 
-### We are hiring a Postdoc (join any time) and a master student (join 2024 fall). Contact linli92@sjtu.edu.cn
+### We are hiring a Postdoc (join any time) and a master student (join 2024 fall). 
 
 Aug 3, 2023: An academic paper entitled "Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering" was accepted by MED-X journal.
 
