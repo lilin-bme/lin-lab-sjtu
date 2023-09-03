@@ -22,6 +22,10 @@ Last updated Sept 3, 2023
   color=blue
 %}
 
+{% endcapture %}
+
+
+
 Aug 3, 2023: Academic paper entitled as "Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering" was accepted by MED-X journal.
 
 May 25, 2023: The Undergraduate Program by Xie Haoqiang was awarded as "National Student Innovation and Entrepreneurship Training Program". Congrats!
