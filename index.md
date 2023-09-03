@@ -11,6 +11,8 @@ An engaging 1-3 sentence description of your lab.
 
 Last updated Sept 3, 2023
 
+### We are hiring a Postdoc (join any time) and a master student (join 2024 fall). Contact linli92@sjtu.edu.cn
+
 Aug 3, 2023: Academic paper entitled as "Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering" was accepted by MED-X journal.
 
 May 25, 2023: The Undergraduate Program by Xie Haoqiang was awarded as "National Student Innovation and Entrepreneurship Training Program". Congrats!
