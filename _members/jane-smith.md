@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Li Lin
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - L. LIN
+  - L LIN
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://en.bme.sjtu.edu.cn/show-33-192.html
+  orcid: 0000-0002-8079-5768
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
