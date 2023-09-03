@@ -13,13 +13,11 @@ We also cooperate deeply with YE RESEARCH LAB at Shanghai Jiao Tong University. 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
 
 {% include section.html %}
 
