@@ -11,14 +11,10 @@ We are a team with different background of biomedical engineering, material scie
 
 {% include section.html %}
 
-We are a team with different background of biomedical engineering, material science, chemistry, biology and electrical engineering2.
-
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-We are a team with different background of biomedical engineering, material science, chemistry, biology and electrical engineering3.
 
 {% include section.html %}
 
@@ -31,3 +27,18 @@ We are a team with different background of biomedical engineering, material scie
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% include section.html %}
+
+Undergraduates
+
+Zongyu Wu, Shanghai Jiao Tong University, 2021-now
+Haoqiang Xie, Shanghai Jiao Tong University, 2022-now
+Han Gu, Shanghai Jiao Tong University, 2023-now
+
+{% include section.html %}
+
+Alumni
+
+Hao-qi He, Shanghai Jiao Tong University, Master Student, 2020-2023
+Shu-Jia Jiang, Imperial College London, Undergraduate Summer Intern, 2023
