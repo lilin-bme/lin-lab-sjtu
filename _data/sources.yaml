@@ -1,23 +1,19 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1007/s44258-023-00010-2
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: We report the use of surface-enhanced Raman scattering nanotags embedded in ex-vivo animal tissues for direct and quantitative measurements of light attenuation and spectroscopic detection depth at both the NIR-I and NIR-II spectral windows.
+  date: 2023-09
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44258-023-00010-2/MediaObjects/44258_2023_10_Figa_HTML.png?as=webp
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+   % - type: manubot
+   %   link: https://greenelab.github.io/meta-review/
+   % - type: source
+   %   text: Manuscript Source
+  %    link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
+      link: https://link.springer.com/article/10.1007/s44258-023-00010-2
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - SERS
+    - Detection depth assessment
+    - Second near-infrared window
+ 
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
