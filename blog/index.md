@@ -10,9 +10,9 @@ nav:
 {% include section.html %}
 
 ## Awards
-2022, "Chenguang Program" Young Scholars in Shanghai
-{%%}
-2021, IEEE-Nano Best Paper Anomination Award
+- 2022, "Chenguang Program" Young Scholars in Shanghai
+
+- 2021, IEEE-Nano Best Paper Anomination Award
 
 
 {% include tags.html tags=site.tags %}
