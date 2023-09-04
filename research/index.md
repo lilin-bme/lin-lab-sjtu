@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-
+{% include citation.html lookup="doi:10.1007/s44258-023-00010-2" style="rich" %}
 
 {% include section.html %}
 
