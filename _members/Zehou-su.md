@@ -1,8 +1,8 @@
 ---
 name: Zehou Su
 image: images/photo.jpg
-role:phd
-description:PhD Student
+role: phd
+description: PhD Student
 links:
 email: 
  
