@@ -1,5 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.trac.2024.117578
+  title: 'Recent progress and applications of Raman spectrum denoising algorithms
+    in chemical and biological analyses: A review'
+  authors:
+  - Shiyan Fang
+  - Siyi Wu
+  - Zhou Chen
+  - Chang He
+  - Linley Li Lin
+  - Jian Ye
+  publisher: TrAC Trends in Analytical Chemistry
+  date: '2024-03-01'
+  link: https://doi.org/gtjtkf
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.3c18488
+  title: Biomimetic-Membrane-Protected Plasmonic Nanostructures as Dual-Modality Contrast
+    Agents for Correlated Surface-Enhanced Raman Scattering and Photoacoustic Detection
+    of Hidden Tumor Lesions
+  authors:
+  - Indrajit Srivastava
+  - Ruiyang Xue
+  - Hsuan-Kai Huang
+  - Ziwen Wang
+  - Jamie Jones
+  - Isabella Vasquez
+  - Subhendu Pandit
+  - Li Lin
+  - Shensheng Zhao
+  - Kristen Flatt
+  - Viktor Gruev
+  - Yun-Sheng Chen
+  - Shuming Nie
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2024-02-07'
+  link: https://doi.org/gthdgs
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smtd.202301243
+  title: "Artificial Intelligence for Surface\u2010Enhanced Raman Spectroscopy"
+  authors:
+  - Xinyuan Bi
+  - Li Lin
+  - Zhou Chen
+  - Jian Ye
+  publisher: Small Methods
+  date: '2023-10-27'
+  link: https://doi.org/gs2vq7
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.3c07792
+  title: Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in
+    Thick Tissues Using Tomographic Transmission Raman Spectroscopy
+  authors:
+  - Haoqiang Xie
+  - Yumin Zhang
+  - Zongyu Wu
+  - Zhouzhou Bao
+  - Li Lin
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2023-09-13'
+  link: https://doi.org/gsqwss
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s44258-023-00010-2
   title: "Direct and quantitative assessments of near-infrared light attenuation and\
     \ spectroscopic detection depth in biological\_tissues using surface-enhanced\
@@ -99,6 +168,19 @@
   publisher: Small Methods
   date: '2022-12-26'
   link: https://doi.org/gsn3qv
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-822425-0.00111-1
+  title: Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics,
+    bioimaging, and spectroscopy-guided cancer surgery
+  authors:
+  - Li Lin
+  - Ruiyang Xue
+  - Shuming Nie
+  publisher: Encyclopedia of Nanomaterials
+  date: '2023-01-01'
+  link: https://doi.org/gsn7w3
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
@@ -238,17 +320,6 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/978-981-15-7627-0_9
-  title: Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging
-  authors:
-  - Li Lin
-  - Jian Ye
-  publisher: Advances in Experimental Medicine and Biology
-  date: '2021-01-01'
-  link: https://doi.org/gsn3q6
-  orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-019-14070-9
   title: Gap-enhanced Raman tags for physically unclonable anticounterfeiting labels
   authors:
@@ -294,8 +365,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/smtd.201800182
-  title: Surface-Enhanced Raman Nanoprobes with Embedded Standards for Quantitative
-    Cholesterol Detection
+  title: "Surface\u2010Enhanced Raman Nanoprobes with Embedded Standards for Quantitative\
+    \ Cholesterol Detection"
   authors:
   - Xin Jiang
   - Ziyang Tan
@@ -361,12 +432,24 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: ':'
-  title: "Nanooptics of plasmonic nanomatryoshkas: shrinking the size of a core\u2013\
-    shell junction to subnanometer"
+- id: doi:10.1021/acs.nanolett.5b02931
+  title: "Nanooptics of Plasmonic Nanomatryoshkas: Shrinking the Size of a Core\u2013\
+    Shell Junction to Subnanometer"
+  authors:
+  - Li Lin
+  - Mario Zapata
+  - Min Xiong
+  - Zhonghui Liu
+  - Shanshan Wang
+  - Hong Xu
+  - Andrei G. Borisov
+  - Hongchen Gu
+  - Peter Nordlander
+  - Javier Aizpurua
+  - Jian Ye
   publisher: Nano Letters
-  date: '2018-08-29'
-  link: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02931
+  date: '2015-09-21'
+  link: https://doi.org/f7t63p
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
