@@ -1,5 +1,506 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1142/S1793545826400080
+  title: Deep learning-assisted reconstruction of Raman speckle images transmitted
+    through biological tissues
+  authors:
+  - Haoqiang Xie
+  - Erjia Wang
+  - Zhouzhou Bao
+  - Zhou Chen
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Journal of Innovative Optical Health Sciences
+  date: '2026-04-23'
+  link: https://doi.org/hbzkk6
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.6c05667
+  title: Predominance of the Noncell-Mediated Migration Mechanism for Large Nanoparticles
+    into Sentinel Lymph Nodes
+  authors:
+  - Zongyu Wu
+  - Rongrong Guo
+  - Yutong Zhou
+  - Xinyuan Bi
+  - Linley Li Lin
+  - Jian Ye
+  publisher: ACS Nano
+  date: '2026-06-15'
+  link: https://doi.org/hb8cb5
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.analchem.5c07804
+  title: Deep Learning-Based Restoration of Distorted Transmission Raman Spectra through
+    Biological Tissue
+  authors:
+  - Haoqiang Xie
+  - Zhou Chen
+  - Yutong Zhou
+  - Zehou Su
+  - Zongyu Wu
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Analytical Chemistry
+  date: '2026-06-08'
+  link: https://doi.org/hb7pss
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssensors.5c03331
+  title: Molecule-Level Interpretable SERS Diagnosis of Prostate Cancer via Prostatic
+    Fluid Metabolites and Extracellular Vesicles
+  authors:
+  - Yang Cheng
+  - Xinyuan Bi
+  - Bo Liu
+  - Zhou Chen
+  - Linley Li Lin
+  - Yuling Wang
+  - Jiahua Pan
+  - Jian Ye
+  publisher: ACS Sensors
+  date: '2026-01-28'
+  link: https://doi.org/hbncmf
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D5NR04403K
+  title: A flexible plasmonic SERS hydrogel patch for metabolite sensing on bio-interfaces
+  authors:
+  - Yide Yang
+  - Zehou Su
+  - Xuanting Liu
+  - Jiaying Song
+  - Chunchun Li
+  - Yikai Xu
+  - Jian Ye
+  - Linley Li Lin
+  publisher: Nanoscale
+  date: '2026-01-01'
+  link: https://doi.org/hbmcxk
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D6CC01952H
+  title: "Multiplexed digital colloid-enhanced Raman spectroscopy for metabolite detection\n\
+    \                    <i>via</i>\n                    selective molecular affinity"
+  authors:
+  - Shuang Ni
+  - Zhewen Luo
+  - Xinyuan Bi
+  - Haoran Chen
+  - Zehou Su
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Chemical Communications
+  date: '2026-01-01'
+  link: https://doi.org/hb6vwh
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.adx5246
+  title: Oral delivery of aptamer-decorated SICTERS Raman probes for colonoscopy-guided
+    resection and photothermal immunization of microtumors
+  authors:
+  - Xinyi Li
+  - Yuanyuan Qiu
+  - Kai Cui
+  - Wenxian Zhang
+  - Linley Li Lin
+  - Wei Hao
+  - Aoxiang Luo
+  - You Guo
+  - Huan Liu
+  - Wenxuan Dong
+  - Zeyu Xiao
+  publisher: Science Advances
+  date: '2025-11-21'
+  link: https://doi.org/hbb8mf
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bios.2025.117377
+  title: 'Multiplexed lateral flow immunoassays using high photostability gap-enhanced
+    Raman nanotags: Highly sensitive, rapid, efficient and portable point-of-care
+    tests'
+  authors:
+  - Xudong Jin
+  - Yumin Zhang
+  - Qingsheng Guo
+  - Binge Deng
+  - Ziyang Tan
+  - Fugang Liu
+  - Li Lin
+  - Jian Ye
+  - Hong Xu
+  publisher: Biosensors and Bioelectronics
+  date: '2025-06-01'
+  link: https://doi.org/g89hdw
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.5c01041
+  title: Thermoplasmonic Regulation and <i>In Situ</i> Detection of Biomolecules with
+    a Photothermal-Enhanced Plasmonic Biosensing System
+  authors:
+  - Guangyu Qiu
+  - Linlin Liu
+  - Danhua Wang
+  - Fei He
+  - Min Gao
+  - Linley Li Lin
+  - Jian Ye
+  - Jing Wang
+  - Guang-Zhong Yang
+  publisher: ACS Nano
+  date: '2025-04-25'
+  link: https://doi.org/g9gs8r
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.analchem.4c06584
+  title: Artificial Intelligence-Powered Surface-Enhanced Raman Spectroscopy for Biomedical
+    Applications
+  authors:
+  - Xinyuan Bi
+  - Xiyue Ai
+  - Zongyu Wu
+  - Linley Li Lin
+  - Zhou Chen
+  - Jian Ye
+  publisher: Analytical Chemistry
+  date: '2025-03-27'
+  link: https://doi.org/g8998s
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.4c17502
+  title: 'Surface-Enhanced Raman Spectroscopy for Biomedical Applications: Recent
+    Advances and Future Challenges'
+  authors:
+  - Linley Li Lin
+  - Ramon Alvarez-Puebla
+  - "Luis M. Liz-Marz\xE1n"
+  - Matt Trau
+  - Jing Wang
+  - Laura Fabris
+  - Xiang Wang
+  - Guokun Liu
+  - Shuping Xu
+  - Xiao Xia Han
+  - Liangbao Yang
+  - Aiguo Shen
+  - Shikuan Yang
+  - Yikai Xu
+  - Chunchun Li
+  - Jinqing Huang
+  - Shao-Chuang Liu
+  - Jian-An Huang
+  - Indrajit Srivastava
+  - Ming Li
+  - Limei Tian
+  - Lam Bang Thanh Nguyen
+  - Xinyuan Bi
+  - Dana Cialla-May
+  - Pavel Matousek
+  - Nicholas Stone
+  - Randy P. Carney
+  - Wei Ji
+  - Wei Song
+  - Zhou Chen
+  - In Yee Phang
+  - Malou Henriksen-Lacey
+  - Haoran Chen
+  - Zongyu Wu
+  - Heng Guo
+  - Hao Ma
+  - Gennadii Ustinov
+  - Siheng Luo
+  - Sara Mosca
+  - Benjamin Gardner
+  - Yi-Tao Long
+  - Juergen Popp
+  - Bin Ren
+  - Shuming Nie
+  - Bing Zhao
+  - Xing Yi Ling
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2025-02-24'
+  link: https://doi.org/g86tj4
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.4c20139
+  title: Single-Injection Composite Tracer Achieves Intraoperative Dual-Tracing and
+    Precise Localization of Sentinel Lymph Nodes
+  authors:
+  - Binge Deng
+  - Linley Li Lin
+  - Yan Wang
+  - Xiangdong Bu
+  - Jin Li
+  - Jingsong Lu
+  - Yaohui Wang
+  - Yao Chen
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2025-01-16'
+  link: https://doi.org/g82fnx
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.4c12469
+  title: In Vivo Surface-Enhanced Transmission Raman Spectroscopy and Impact of Frozen
+    Biological Tissues on Lesion Depth Prediction
+  authors:
+  - Yutong Zhou
+  - Yumin Zhang
+  - Haoqiang Xie
+  - Zongyu Wu
+  - Bowen Shi
+  - Linley Li Lin
+  - Jian Ye
+  publisher: ACS Nano
+  date: '2024-12-16'
+  link: https://doi.org/g8wpqg
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.saa.2024.124852
+  title: Oppositely-charged silver nanoparticles enable selective SERS molecular enhancement
+    through electrostatic interactions
+  authors:
+  - Yuqing Gu
+  - Siyi Wu
+  - Zhewen Luo
+  - Linley Li Lin
+  - Jian Ye
+  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+  date: '2024-12-01'
+  link: https://doi.org/g3pssb
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00216-024-05545-w
+  title: 'Raman fiber-optic probe for rapid diagnosis of gastric and esophageal tumors
+    with machine learning analysis or similarity assessments: a comparative study'
+  authors:
+  - Shiyan Fang
+  - Pei Xu
+  - Siyi Wu
+  - Zhou Chen
+  - Junqing Yang
+  - Haibo Xiao
+  - Fangbao Ding
+  - Shuchun Li
+  - Jin Sun
+  - Zirui He
+  - Jian Ye
+  - Linley Li Lin
+  publisher: Analytical and Bioanalytical Chemistry
+  date: '2024-09-25'
+  link: https://doi.org/g8zsf6
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssensors.4c01873
+  title: Multiwavelength Surface-Enhanced Raman Scattering Fingerprints of Human Urine
+    for Cancer Diagnosis
+  authors:
+  - Yuqing Gu
+  - Jiayi Wang
+  - Zhewen Luo
+  - Xingyi Luo
+  - Linley Li Lin
+  - Shuang Ni
+  - Cong Wang
+  - Haoran Chen
+  - Zehou Su
+  - Yao Lu
+  - Li-Yong Gan
+  - Zhou Chen
+  - Jian Ye
+  publisher: ACS Sensors
+  date: '2024-10-18'
+  link: https://doi.org/g8nmvz
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smll.202402235
+  title: "NIR\u2010II Surface\u2010Enhanced Raman Scattering Nanoprobes in Biomedicine:\
+    \ Current Impact and Future Directions"
+  authors:
+  - Binge Deng
+  - Yuqing Zhang
+  - Guangyu Qiu
+  - Jin Li
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Small
+  date: '2024-06-07'
+  link: https://doi.org/gtxzwj
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.saa.2024.125062
+  title: Raman spectroscopy analysis combined with computed tomography imaging to
+    identify microsatellite instability in gastric cancers
+  authors:
+  - Bowen Shi
+  - Wenfang Wang
+  - Shiyan Fang
+  - Siyi Wu
+  - Lan Zhu
+  - Yong Chen
+  - Haipeng Dong
+  - Fuhua Yan
+  - Fei Yuan
+  - Jian Ye
+  - Huan Zhang
+  - Linley Li Lin
+  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+  date: '2025-01-01'
+  link: https://doi.org/g3pm5w
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biomaterials.2024.122538
+  title: Sentinel lymph node identification using NIR-II ultrabright Raman nanotags
+    on preclinical models
+  authors:
+  - Binge Deng
+  - Yan Wang
+  - Xiangdong Bu
+  - Jin Li
+  - Jingsong Lu
+  - Linley Li Lin
+  - Yaohui Wang
+  - Yao Chen
+  - Jian Ye
+  publisher: Biomaterials
+  date: '2024-07-01'
+  link: https://doi.org/gtstq8
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xcrm.2024.101579
+  title: SERSomes for metabolic phenotyping and prostate cancer diagnosis
+  authors:
+  - Xinyuan Bi
+  - Jiayi Wang
+  - Bingsen Xue
+  - Chang He
+  - Fugang Liu
+  - Haoran Chen
+  - Linley Li Lin
+  - Baijun Dong
+  - Butang Li
+  - Cheng Jin
+  - Jiahua Pan
+  - Wei Xue
+  - Jian Ye
+  publisher: Cell Reports Medicine
+  date: '2024-06-01'
+  link: https://doi.org/gt5f79
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.saa.2024.124461
+  title: Raman spectroscopy for esophageal tumor diagnosis and delineation using machine
+    learning and the portable Raman spectrometer
+  authors:
+  - Junqing Yang
+  - Pei Xu
+  - Siyi Wu
+  - Zhou Chen
+  - Shiyan Fang
+  - Haibo Xiao
+  - Fengqing Hu
+  - Lianyong Jiang
+  - Lei Wang
+  - Bin Mo
+  - Fangbao Ding
+  - Linley Li Lin
+  - Jian Ye
+  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+  date: '2024-09-01'
+  link: https://doi.org/gt45n6
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.trac.2024.117578
+  title: 'Recent progress and applications of Raman spectrum denoising algorithms
+    in chemical and biological analyses: A review'
+  authors:
+  - Shiyan Fang
+  - Siyi Wu
+  - Zhou Chen
+  - Chang He
+  - Linley Li Lin
+  - Jian Ye
+  publisher: TrAC Trends in Analytical Chemistry
+  date: '2024-03-01'
+  link: https://doi.org/gtjtkf
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.3c18488
+  title: Biomimetic-Membrane-Protected Plasmonic Nanostructures as Dual-Modality Contrast
+    Agents for Correlated Surface-Enhanced Raman Scattering and Photoacoustic Detection
+    of Hidden Tumor Lesions
+  authors:
+  - Indrajit Srivastava
+  - Ruiyang Xue
+  - Hsuan-Kai Huang
+  - Ziwen Wang
+  - Jamie Jones
+  - Isabella Vasquez
+  - Subhendu Pandit
+  - Li Lin
+  - Shensheng Zhao
+  - Kristen Flatt
+  - Viktor Gruev
+  - Yun-Sheng Chen
+  - Shuming Nie
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2024-02-07'
+  link: https://doi.org/gthdgs
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smtd.202301243
+  title: "Artificial Intelligence for Surface\u2010Enhanced Raman Spectroscopy"
+  authors:
+  - Xinyuan Bi
+  - Li Lin
+  - Zhou Chen
+  - Jian Ye
+  publisher: Small Methods
+  date: '2023-10-27'
+  link: https://doi.org/gs2vq7
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.3c07792
+  title: Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in
+    Thick Tissues Using Tomographic Transmission Raman Spectroscopy
+  authors:
+  - Haoqiang Xie
+  - Yumin Zhang
+  - Zongyu Wu
+  - Zhouzhou Bao
+  - Li Lin
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2023-09-13'
+  link: https://doi.org/gsqwss
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s44258-023-00010-2
   title: "Direct and quantitative assessments of near-infrared light attenuation and\
     \ spectroscopic detection depth in biological\_tissues using surface-enhanced\
@@ -102,6 +603,19 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/b978-0-12-822425-0.00111-1
+  title: Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics,
+    bioimaging, and spectroscopy-guided cancer surgery
+  authors:
+  - Li Lin
+  - Ruiyang Xue
+  - Shuming Nie
+  publisher: Encyclopedia of Nanomaterials
+  date: '2023-01-01'
+  link: https://doi.org/gsn7w3
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcc.2c02512
   title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
   authors:
@@ -191,8 +705,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1515/nanoph-2021-0116
-  title: Probing electron transport in plasmonic molecular junctions with two-photon
-    luminescence spectroscopy
+  title: "Probing electron transport in plasmonic molecular junctions with two\u2010\
+    photon luminescence spectroscopy"
   authors:
   - Qiang Zhang
   - Danjun Liu
@@ -201,7 +715,7 @@
   - Li Lin
   - Jian Ye
   - Yang Huang
-  - Shao-Ding Liu
+  - "Shao\u2010Ding Liu"
   - Chi Wah Leung
   - Dangyuan Lei
   publisher: Nanophotonics
@@ -235,17 +749,6 @@
   publisher: The Journal of Physical Chemistry C
   date: '2021-01-15'
   link: https://doi.org/gsn3q5
-  orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/978-981-15-7627-0_9
-  title: Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging
-  authors:
-  - Li Lin
-  - Jian Ye
-  publisher: Advances in Experimental Medicine and Biology
-  date: '2021-01-01'
-  link: https://doi.org/gsn3q6
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
@@ -294,8 +797,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/smtd.201800182
-  title: Surface-Enhanced Raman Nanoprobes with Embedded Standards for Quantitative
-    Cholesterol Detection
+  title: "Surface\u2010Enhanced Raman Nanoprobes with Embedded Standards for Quantitative\
+    \ Cholesterol Detection"
   authors:
   - Xin Jiang
   - Ziyang Tan
@@ -361,12 +864,24 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: ':'
-  title: "Nanooptics of plasmonic nanomatryoshkas: shrinking the size of a core\u2013\
-    shell junction to subnanometer"
+- id: doi:10.1021/acs.nanolett.5b02931
+  title: "Nanooptics of Plasmonic Nanomatryoshkas: Shrinking the Size of a Core\u2013\
+    Shell Junction to Subnanometer"
+  authors:
+  - Li Lin
+  - Mario Zapata
+  - Min Xiong
+  - Zhonghui Liu
+  - Shanshan Wang
+  - Hong Xu
+  - Andrei G. Borisov
+  - Hongchen Gu
+  - Peter Nordlander
+  - Javier Aizpurua
+  - Jian Ye
   publisher: Nano Letters
-  date: '2018-08-29'
-  link: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02931
+  date: '2015-09-21'
+  link: https://doi.org/f7t63p
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
